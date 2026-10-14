@@ -1,2 +1,1 @@
-Message de la branche principale
-Message de la branche de fonctionnalité
+Modification de la branche fonctionnalité
